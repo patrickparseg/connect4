@@ -4,7 +4,7 @@ This game includes an explosion features which randomly clears a full column on 
 
 #Some of the Concepts Used:
     		*-Object Oriented Programming Techniques
-		-Exception Handling
-		-Recursive Function
-		-Composition
-		-2D Array 
+		*-Exception Handling
+		*-Recursive Function
+		*-Composition
+		*-2D Array 
